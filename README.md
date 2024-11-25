@@ -4,7 +4,7 @@ This project is an Arduino-based Bomb Game in which it utilizes Morse Code to se
 TelegraphOnTheClock
 Telegraph on the Clock is a Arduino Bomb Game in which the buzzer will play a random morse code ranging from the numbeers 0-9 and with the use of the keypad, the player will have to guess what morse code has been outputted by the buzzer. 
 
-##BUILDING AND INSTALLING IT 
+# BUILDING AND INSTALLING IT 
   - Get the needed parts (check I.)
   - Connect the components (check II.)
   - If you are not using the Arduino Online Editor, manually install the three included libraries: "Wire.h", "Keypad.h" and "LiquidCrystal_I2C.h". Installing libraries steps: https://www.arduino.cc/en/guide/libraries
